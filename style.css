@@ -1,0 +1,383 @@
+body{
+    background-color: whitesmoke;
+}
+.logo{
+    background-color: rgb(85, 77, 77);
+}
+.sechead{
+    text-align: center;
+    padding-top: 40px;
+}
+.avant{
+    text-align: left;
+    margin-top: 350px;
+    margin-left: 35px;
+    font-size: 29px;
+    color:rgb(48, 115, 156);
+    font-family: lr_ot4, arial, helvetica, sans-serif;
+
+}
+.special{
+    margin-top: 150px;
+    color: rgb(94, 71, 146);
+  text-align: center;
+    font-size: 40px;
+}
+.prg1{
+    color: black;
+    font-size: 25px;
+    text-align: center;
+}
+.row{
+    background-color: white;
+}
+.dynamic{
+    width: 500px;
+    margin-left: 30%;
+    margin-top: 15%;
+}
+.div-r{
+    background-color: rgb(243, 243, 243);
+}
+.text{
+    text-align: center;
+}
+.para3{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.gall{
+    color:rgb(105, 216, 111);
+    margin-left: 45%;
+}
+.gall:hover{
+    color: red;
+}
+.gh{
+    color:rgb(161, 183, 192);
+    text-align: center;
+}
+.hr1{
+    color: white;
+}
+
+.range1{
+    width: 1340px;
+    height: 600px;
+}
+
+.con{
+    color: rgb(196, 195, 164);
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+.cll{
+    color: white;
+    font-size: 30px;
+    margin-left: 20px;
+}
+.clme{
+    color: red;
+}
+.clme:hover{
+    color: yellow;
+    font-size: 22px;
+}
+.about{
+    color: rgb(213, 228, 168);
+    text-align: center;
+    font-size:30px;
+}
+.summ{
+    color: blanchedalmond;
+    font-size: 50px;
+}
+.land{
+    color: white;
+    font-size: 20px;
+    font-family:serif;
+}
+.diff{
+    color: wheat;
+    text-align: center;
+    margin-top: 100px;
+}
+.difpara{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 20px;
+    font-family: serif;
+}
+.based{
+    color: blanchedalmond;
+    font-size: 30px;
+    margin-top: 100px;
+}
+.baspara{
+    color: whitesmoke;
+    font-size: 20px;
+    font-family: serif;
+}
+.range3{
+    height: 250px;
+    width: 440px;
+    display: inline-block;
+}
+.range4{
+    height: 250px;
+    width: 440px;
+    display: inline-block;
+}
+.range5{
+    height: 250px;
+    width: 440px;
+    display: inline-block;
+}
+.range{
+    height: 250px;
+    width: 440px;
+    display: inline-block;
+}
+.range6{
+    height: 250px;
+    width: 440px;
+    display: inline-block;
+}
+.range7{
+    height: 250px;
+    width: 440px;
+    display: inline-block;
+}
+.intimg{
+    float: right;
+    height: 550px;
+    margin-top: 80px;
+    width:600px ;
+}
+.tch{
+    margin-top: 200px;
+    text-align: center;
+    color: rgb(185, 73, 73);
+}
+.ol{
+    color: darkgreen;
+    font-size: 20px;
+    margin-top: 80px;
+    margin-left: 30px;
+}
+.stnd{
+    color: rgb(36, 100, 219);
+    font-size: 25px;
+    margin-left: 30px;
+}
+.info{
+    margin-left: 30px;
+    font-size: 25px;
+
+}
+.you{
+    margin-left: 30px;
+    font-size: 20px;
+}
+.des{
+    color: rgb(207, 90, 90);
+    margin-left: 40%;
+    margin-top: 150px;
+}
+.expl{
+    color: white;
+    font-size: 20px;
+}
+.expl:hover{
+    font-size: 22px;
+    color:rgb(21, 255, 0);
+
+}
+.flush{
+    font-size: 20px;
+    color: white;
+
+}
+.flush:hover{
+    color:rgb(21, 255, 0);
+    font-size: 22px;
+}
+.ext{
+    color: white;
+    font-size: 20px;
+}
+.ext:hover{
+    font-size: 22px;
+    color:rgb(21, 255, 0);
+
+}
+.container{
+    margin-top: 50px;
+}
+.HAND{
+    height: 650px;
+    background-image: url("https://www.landrover.in/sdlmedia/637323288075114284DY.jpg?v=1#desktop_Full_Frame_Carousel_1600x900");
+}
+.h1{
+    color: rgb(211, 211, 211);
+    margin-left: 50px;
+    margin-top: 250px;
+    background-color: transparent;
+    width: 450px;
+    height: 250px;
+}
+.door{
+    color: rgb(240, 14, 14);
+    text-align: left;
+}
+.deploy{
+    font-size: 20px;
+    color: black;
+    text-align: left;
+    font-family:AvenirNext, arial, helvetica, sans-serif;
+    ;
+    margin-top: 50px;
+}
+.firstsec{
+    height: 800px;
+    background-image: url("https://www.landrover.in/sdlmedia/637323287980416067ZX.jpg?v=1#desktop_Full_Frame_Carousel_1600x900");
+}
+.extimg{
+    height: 650px;
+    background-image: url("https://www.landrover.in/sdlmedia/637356981160606062AG.jpg?v=1#desktop_Gallery_1600x900");
+}
+.exthead{
+    padding-top: 100px;
+    margin-left: 50px;
+    font-family: lr_ot4, arial, helvetica, sans-serif;  
+}
+.beauti{
+    margin-left: 50px;
+    font-size: 20px;
+}
+.int{
+    height: 650px;
+    background-image: url("https://www.landrover.in/sdlmedia/637328281186986716WR.jpg?v=1#desktop_Gallery_1600x900");
+}
+.explint{
+    font-family: lr_ot4, arial, helvetica, sans-serif;  
+    padding-top: 100px;
+    margin-left: 50px;
+    color: white;
+}
+.immer{
+    margin-left: 50px;
+    font-size: 20px;
+    color: white;
+}
+.intimg1{
+    height: 100px;
+    display: inline-block;
+}
+.intimg2{
+    height: 100px;
+    display: inline-block;
+}
+.intimg3{
+    height: 100px;
+    display: inline-block;
+}.intimg4{
+    height: 100px;
+    display: inline-block;
+}
+.vg{
+    margin-left: 50px;
+    font-size: 15px;
+    color: rgb(207, 90, 90);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.vg:hover{
+    color: rgb(79, 187, 79);
+    font-size: 20px;
+}
+.extimg1{
+    height: 100px;
+    display: inline-block;
+}
+.extimg2{
+    height: 100px;
+    display: inline-block;
+}
+.extimg3{
+    height: 100px;
+    display: inline-block;
+}
+.extimg4{
+    height: 100px;
+    display: inline-block;
+}
+.extimg5{
+    height: 100px;
+    display: inline-block;
+}
+.exgl{
+    color: red;
+    margin-left:50px ;
+}
+.exgl:hover{
+    color: rgb(105, 216, 111);
+    font-size: 20px;
+
+}
+.bgrow{
+    height: 500px;
+    background-image: url("https://cdn-jaguarlandrover.com/api/v1/image/6845/w/1600.jpg");
+}
+.company{
+    color: whitesmoke;
+    padding-top: 200px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.per{
+    text-align: center;
+    margin-top: 150px;
+    color: rgb(207, 90, 90);
+     font-family: lr_ot4, arial, helvetica, sans-serif;
+}
+.http{
+    height: 350px;
+}
+.http2{
+    height: 350px;
+}
+.row{
+    background-color: whitesmoke;
+}
+.power{
+    font-size: 25px;
+    font-family: lr_ot4, arial, helvetica, sans-serif;
+}
+.driv{
+    font-size: 25px;
+    font-family: lr_ot4, arial, helvetica, sans-serif;
+}
+.capab{
+    text-align: center;
+    margin-top: 150px;
+    color: rgb(207, 90, 90);
+    font-family: lr_ot4, arial, helvetica, sans-serif;
+}
+.capabgimg{
+    margin-top: 50px;
+    height: 700px;
+    background-image: url("https://www.landrover.in/sdlmedia/637177108291474427XF.jpg?v=1#desktop_Full_Frame_Carousel_1600x900");
+}
+.all{
+    padding-top: 250px;
+    font-size: 25px;
+    color: white;
+    margin-left: 100px;
+    font-family: lr_ot4, arial, helvetica, sans-serif;
+}
+.tor{
+    color: white;
+    margin-left: 100px;
+
+}
