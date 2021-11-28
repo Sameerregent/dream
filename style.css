@@ -379,5 +379,12 @@ body{
 .tor{
     color: white;
     margin-left: 100px;
-
+}
+.contact{
+    height: 700px;
+    background-color: black;
+}
+.abt{
+    height: 800px;
+    background-color: black;
 }
